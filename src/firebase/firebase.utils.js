@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-    apiKey: "AIzaSyDTUL-_7V72Y0_qZ4TTfXdncHkU3N5PU1Y",
+    apiKey: "PRIVATE",
     authDomain: "ecommerce-db-bdf16.firebaseapp.com",
     databaseURL: "https://ecommerce-db-bdf16.firebaseio.com",
     projectId: "ecommerce-db-bdf16",
