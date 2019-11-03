@@ -3,13 +3,13 @@ import React from 'react';
 import SignIn from '../../components/SignIn/SignIn';
 import SignUp from '../../components/SignUp/SignUp';
 
-import './Sign.scss';
+import './SignPage.scss';
 
-const Sign = () => (
+const SignPage = () => (
     <div className="sign">
         <SignIn />
         <SignUp />
     </div>
 );
 
-export default Sign;
+export default SignPage;
